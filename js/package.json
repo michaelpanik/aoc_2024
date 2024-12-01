@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "new_day": "./scripts/new_day.sh",
+    "dev": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
