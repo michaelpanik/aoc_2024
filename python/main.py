@@ -1,7 +1,7 @@
 import datetime
 import importlib
 
-current_day = f"{datetime.datetime.now().day:02d}"
+current_day = f"{datetime.datetime.now().day}"
 
 main = importlib.import_module(f"src.day_{current_day}")
 

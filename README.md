@@ -11,6 +11,12 @@ Let's see if I can actually finish this year.
 ##O#####o##
      ||
 ```
+## Day 2
+Now I'm remembering why this is so hard. Took me several tries to handle the first one. I think my final solution for part 1 kind of sucks, but I'm not worried about it - i got it right. I'll save the clever-ness for later. It's not stupid if it works.
+
+I realized I screwed up my shell script initializers. The main thing was that I was using 2-digit dates for no reason, which simplified everything else. I also was pulling data from day 1 statically (teehee). I want to use this to compete in the leaderboards next year, so this year will be good for bug testing and building a utility library, I think. Haven't written any utils yet, but maybe I should start.
+
+I'm also thinking doing it in two languages is dumb, the challenge is just the solving of it. It would probably make sense to solve the problem, then do it super concisely, all in one language. May switch to doing that, I dunno.
 
 ## Day 1
 Several years ago, when I was first attempting AoC (and hilariously over-solving every problem with Typescript and strong, statically-typed systems), I had a little micro blog in the README like this. I think I'm going to try and do that again this year.

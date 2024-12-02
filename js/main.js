@@ -1,3 +1,3 @@
-const day = String(new Date().getDate()).padStart(2, '0');
+const day = new Date().getDate()
 
 import(`./src/day_${day}.js`)
