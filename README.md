@@ -11,6 +11,11 @@ Let's see if I can actually finish this year.
 ##O#####o##
      ||
 ```
+## Day 3
+Today was a lot easier! I think I've finally gotten good at regex - did the whole thing without going to regexr.com haha. Solution seems pretty nice and clever, and I solved both sections pretty fast - maybe 10 minutes or so. I also had the right answer on the first try both times - small victories!
+
+One thing with my tooling, this week used some styling to highlight which section was valid and which wasn't. I'm just scraping in the pure text so I have no way to see that. Not sure how to get around it but it sucked having to go back to the page and re-read the prompt. That definitely cost me some time.
+
 ## Day 2
 Now I'm remembering why this is so hard. Took me several tries to handle the first one. I think my final solution for part 1 kind of sucks, but I'm not worried about it - i got it right. I'll save the clever-ness for later. It's not stupid if it works.
 
